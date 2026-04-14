@@ -1,0 +1,20 @@
+{
+  "overview": "Zalta is a professional B2B product showcase website displaying four product ranges: guest amenities, housekeeping chemicals, housekeeping tools, and housekeeping machines. Visitors can browse categories, explore individual products, and contact the company.",
+  "features": [
+    "4 product category browsing (Guest Amenities, Housekeeping Chemicals, Tools, Machines)",
+    "Product gallery with detail pages per category",
+    "Hero section with call-to-action",
+    "Responsive mobile/tablet/desktop layout",
+    "Fixed header navigation and footer",
+    "About and Contact sections"
+  ],
+  "category": "showcase",
+  "tags": [
+    "product-catalog",
+    "b2b",
+    "hospitality",
+    "housekeeping",
+    "supplier"
+  ],
+  "last_updated": "2026-04-14T15:19:06.722Z"
+}
