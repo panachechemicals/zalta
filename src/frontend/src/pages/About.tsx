@@ -5,10 +5,9 @@ import { Award, Building2, Globe, Users } from "lucide-react";
 import { motion } from "motion/react";
 
 const stats = [
-  { label: "Years in Operation", value: "15+" },
-  { label: "Products in Range", value: "500+" },
-  { label: "Countries Served", value: "30+" },
-  { label: "Hotel Properties", value: "1,200+" },
+  { label: "Years in Operation", value: "10+" },
+  { label: "Products in Range", value: "50+" },
+    { label: "Hotel Properties", value: "100+" },
 ];
 
 const values = [
@@ -26,15 +25,12 @@ const values = [
   },
   {
     icon: Globe,
-    title: "Sustainable Sourcing",
-    description:
-      "We actively seek eco-certified alternatives across our ranges and work with suppliers committed to reducing plastic packaging.",
-  },
+      },
   {
     icon: Building2,
     title: "Industry Expertise",
     description:
-      "With 15 years serving hotels, serviced residences, and facilities companies, we understand the pressures of hospitality procurement.",
+      "With 10 years serving hotels, serviced residences, and facilities companies, we understand the pressures of hospitality procurement.",
   },
 ];
 
@@ -54,7 +50,7 @@ export default function About() {
               About Zalta
             </p>
             <h1 className="font-display text-5xl font-semibold mb-5">
-              Supplying hospitality excellence since 2009
+              Supplying hospitality excellence since 2017
             </h1>
             <p className="text-primary-foreground/75 text-lg leading-relaxed">
               Zalta is a B2B supplier of premium housekeeping and guest amenity
