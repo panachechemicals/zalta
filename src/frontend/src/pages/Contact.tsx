@@ -19,25 +19,25 @@ const contactInfo = [
   {
     icon: Mail,
     label: "Email",
-    value: "enquiries@zalta.org",
-    href: "mailto:enquiries@zalta.org",
+    value: "panachechemicals@gmail.com",
+    href: "mailto:panachechemicals@gmail.com",
   },
   {
     icon: Phone,
     label: "Phone",
-    value: "+1 (800) 925-8200",
-    href: "tel:+18009258200",
+    value: "8103803294",
+    href: "tel:8103803294",
   },
   {
     icon: MapPin,
     label: "Address",
-    value: "Zalta HQ, International Business Park, Level 12",
+    value: "Zalta HQ, GWALIOR MP",
     href: undefined,
   },
   {
     icon: Clock,
     label: "Business Hours",
-    value: "Mon–Fri, 08:00–18:00 (GST)",
+    value: "Mon–Fri, 10:00–19:00 (GST)",
     href: undefined,
   },
 ];
